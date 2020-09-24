@@ -5,8 +5,8 @@ import java.util.HashMap;
 
 public class findTheDifference {
     public static void main(String[] args) {
-        String s = "";
-        String t = "abcde";
+        String s = "a";
+        String t = "aa";
         char ch = new findTheDifference().findDifference(s, t);
         System.out.println(ch);
     }
