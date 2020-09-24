@@ -1,7 +1,5 @@
 package FindDifference;
 
-// import java.util.HashSet;
-
 public class findTheDifference {
     public static void main(String[] args) {
         String s = "abcd";
